@@ -13,7 +13,7 @@
 데이터 전처리 및 카이제곱 검정을 활용한 변수 선택  
 DNN 예측 모델링 및 최적화  
 DNN 모델이 스스로 변수 선택을 잘 했는지 확인  
-XGboost와 RandomForest 모델과 DNN 모델 성능 비교  
+XGboost, RandomForest 모델과 DNN 모델 성능 비교  
 
 ##### 분석결과
 DNN 모델은 변수 선택을 잘 하여 모델을 학습함을 입증  
